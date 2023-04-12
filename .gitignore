@@ -49,5 +49,5 @@ po/*~
 rsconnect/
 
 # files types
-.parquet
-.sas7bdat
+*.parquet
+*.sas7bdat
